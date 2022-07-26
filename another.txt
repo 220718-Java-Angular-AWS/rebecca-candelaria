@@ -1,1 +1,1 @@
-This is another practice example to work with. 
+Some more practice with Git.
